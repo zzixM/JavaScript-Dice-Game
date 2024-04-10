@@ -1,3 +1,3 @@
-﻿disclamer in script.js
+﻿disclamer in script.js lines 148-155
 
-As of 09/04/2024 Game code is still in development
+
