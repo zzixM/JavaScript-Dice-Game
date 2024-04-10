@@ -4,7 +4,7 @@
 const doc = document;
 const docQ = query => doc.querySelector(query);
 const id = query => doc.getElementById(query);
-const WINCONDITION = 10; // sets the win condition
+const WINCONDITION = 100; // sets the win condition
 
 // Global Variables - HTML Elemenst
 /**
